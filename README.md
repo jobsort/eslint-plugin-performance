@@ -1,1 +1,1 @@
-# eslint-plugin-performance
+# ESLint Performance Plugin
